@@ -1,0 +1,9 @@
+.DS_store
+node_modules/
+!src/
+src/*
+!src/index.html
+!src/img/
+!src/css/
+!src/js/
+!src/fonts/
